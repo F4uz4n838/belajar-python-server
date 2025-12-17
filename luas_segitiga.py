@@ -3,4 +3,5 @@ tinggi = float(input("Masukkan tinggi segitiga: "))
 
 luas = 0.5 * alas * tinggi
 
-print("Luas segitiga adalah:", luas)
+print("Hasil perhitungan luas segitiga =", luas)
+
